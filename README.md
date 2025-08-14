@@ -5,9 +5,8 @@ Built with React hooks and modern styling.
 
 ---
 
-## 🚀 Live Demo
-[View on Vercel](https://YOUR_VERCEL_PROJECT_URL)  
-*(Replace with your deployed project link)*
+<!-- ## 🚀 Live Demo
+[View on Vercel](https://YOUR_VERCEL_PROJECT_URL)   -->
 
 ---
 
