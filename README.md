@@ -5,8 +5,8 @@ Built with React hooks and modern styling.
 
 ---
 
-<!-- ## 🚀 Live Demo
-[View on Vercel](https://YOUR_VERCEL_PROJECT_URL)   -->
+## 🚀 Live Demo
+[View on Vercel](http://tenzies-game-one-roan.vercel.app/)  
 
 ---
 
